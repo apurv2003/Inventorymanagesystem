@@ -1,1 +1,1 @@
-# Inventorymanagesystem
+]An Inventory Management System tracks items in stock, allows the addition or removal of items, and manages inventory levels. It includes functionalities for adding new items to the inventory, updating item quantities, generating reports on stock levels, and handling orders or shipments. Error handling ensures accurate inventory updates and prevents stock discrepancies.
